@@ -1,0 +1,5 @@
+# Force everything to LF for consistency
+* text eol=lf
+
+# Ensure the integrity of binary files is preserved
+*.png binary
