@@ -23,7 +23,7 @@ face_deboss = 1.5; // [0.5:0.5:3]
 text_scale = 0.3; // [0.1:0.05:0.3]
 
 // The text written on the heart
-text = "C & C";
+text = "LOVE";
 
 // The font of the text
 text_font = "Segoe Script";
